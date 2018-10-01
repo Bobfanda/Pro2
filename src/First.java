@@ -6,7 +6,9 @@ class First {
 	private static Random random = new Random();
 	private static Scanner input = new Scanner(System.in);
 
-	public static void main(String[] args) {
-		
+
+		public static void main(String[] args) {
+			System.out.println("Hello World!");
+		}
 	}
-}
+
